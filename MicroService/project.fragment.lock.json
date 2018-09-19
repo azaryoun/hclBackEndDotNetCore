@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.6.1",
+      "compile": {
+        "bin/Debug/DataAccess.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/DataAccess.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/DataAccess.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
